@@ -1,2 +1,10 @@
-# Sorting-Algorithm-Identifier
-A Python project for identifying and classifying unknown sorting algorithms by analyzing performance metrics such as time complexity and memory usage under various input conditions.
+# Sorting Algorithm Identifier
+
+This Python project identifies unknown sorting algorithms from a corrupted software package by analyzing their performance. It tests each algorithm on different input lists and measures time complexity and memory usage to match them with known sorting algorithms.
+
+## Summary
+- Benchmarks each sorting algorithm with custom input cases.
+- Analyzes time and memory performance to differentiate algorithms.
+- Identifies n² sorts (Bubble, Selection, Insertion), QuickSort variants, and more.
+
+Developed as part of the Google Tech Exchange program.
